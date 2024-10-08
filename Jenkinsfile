@@ -1,5 +1,4 @@
-node('ubuntu-Appserver-2140
-')
+node('ubuntu-Appserver-2140')
 {
     def app
     stage('Cloning Git')
